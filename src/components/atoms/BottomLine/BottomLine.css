@@ -1,0 +1,15 @@
+.side-line {
+    height: 8px;
+    width: 8px;
+    margin: 0 10px;
+    background-color: #1500ff;
+    transform: rotate(45deg);
+}
+
+.middle-line {
+    width: 180px;
+    height: 4px;
+    background-color: #1500ff;
+    border-radius: 4px;
+    position: relative;
+}
